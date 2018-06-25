@@ -1,0 +1,17 @@
+<settings>
+  <servers>
+
+  <server>
+  <id>releases</id>
+    <username>admin</username>
+    <password>admin123</password>
+  </server>
+  <server>
+  <id>snapshots</id>
+    <username>admin</username>
+    <password>admin123</password>
+  </server>
+  </servers>
+  <profiles>
+  </profiles>
+</settings>
